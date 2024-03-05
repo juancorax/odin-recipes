@@ -1,0 +1,30 @@
+body {
+  font-family:
+    Menlo,
+    Consolas,
+    Monaco,
+    Liberation Mono,
+    Lucida Console,
+    monospace;
+  font-size: 20px;
+  background-color: #2f2f31;
+  color: #bdbdbd;
+}
+
+img {
+  height: 500px;
+  width: auto;
+}
+
+h1,
+h2 {
+  color: #ffffff;
+}
+
+h3 {
+  color: #dfdfdf;
+}
+
+a {
+  color: #bdbdbd;
+}
